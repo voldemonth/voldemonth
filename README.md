@@ -1,11 +1,18 @@
 # Hi, I'm Vansh Thakur 👋
 Aspiring Data Analyst | SQL Learner | Future Data Scientist
-#🎓 BCA Student from Himachal Pradesh
-#📊 Passionate about Data Analytics & Visualization
-#🧠 Currently learning SQL, Python & Power BI
-#🚀 Building projects to improve real-world problem solving
-#📈 Interested in Data Science, AI & Business Insights
-#💡 Believer in consistency, growth & smart work
+
+##🎓 BCA Student from Himachal Pradesh
+
+📊 Passionate about Data Analytics & Visualization
+
+🧠 Currently learning SQL, Python & Power BI
+
+🚀 Building projects to improve real-world problem solving
+
+📈 Interested in Data Science, AI & Business Insights
+
+💡 Believer in consistency, growth & smart work
+
 
 #🛠️ Skills
 SQL
