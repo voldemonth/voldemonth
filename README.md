@@ -1,6 +1,23 @@
-# 💫 About Me:
-hey there i  am vanss thakur  final year BCA  student <br>i  am skilled in SQL, PYTHON,  visualization  tools (like  power BI AND Tableau)U)
-
+# Hi, I'm Vansh Thakur 👋
+Aspiring Data Analyst | SQL Learner | Future Data Scientist
+🎓 BCA Student from Himachal Pradesh
+📊 Passionate about Data Analytics & Visualization
+🧠 Currently learning SQL, Python & Power BI
+🚀 Building projects to improve real-world problem solving
+📈 Interested in Data Science, AI & Business Insights
+💡 Believer in consistency, growth & smart work
+🛠️ Skills
+SQL
+Python
+Power BI
+Excel
+Data Cleaning
+Data Visualization
+📌 Current Goals
+Improve SQL problem-solving skills
+Build strong data analytics projects
+Get a Data Analyst Internship
+Become industry-ready by 2027
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thevanshthakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vansh.thakur.outlook@gmail.com) 
